@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 250px;
+    margin: 10% 25% 0 25%;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+button, p {
+   margin-left: 25%;
+}
+
+ul {
+    list-style: none;
+}
+
+#question-1,
+#question-2,
+#question-3,
+#question-4,
+#question-5,
+#question-6,
+#question-7,
+#question-8,
+#question-9,
+#question-10, 
+#question-11 {
+    display: none;
+}
